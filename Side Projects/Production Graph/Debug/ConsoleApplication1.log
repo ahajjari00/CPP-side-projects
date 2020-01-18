@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\C++ Practice Programs\Ch 7 arrays\productionGraph\productionGraph\ConsoleApplication1\ConsoleApplication1.cpp(166,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\C++ Practice Programs\Ch 7 arrays\productionGraph\productionGraph\ConsoleApplication1\ConsoleApplication1.cpp(185,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\C++ Practice Programs\Ch 7 arrays\productionGraph\productionGraph\ConsoleApplication1\ConsoleApplication1.cpp(203,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\C++ Practice Programs\Ch 7 arrays\productionGraph\productionGraph\ConsoleApplication1\ConsoleApplication1.cpp(222,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\C++ Practice Programs\Ch 7 arrays\productionGraph\productionGraph\ConsoleApplication1\Debug\ConsoleApplication1.exe
